@@ -11,7 +11,7 @@ More information about MBC is available at https://www.mybcert.com.
 
 Our validation service is in Alpha version since July 2019 and in continuous beta as we extend functionalities.
 
-Verification is planned to be live at https://www.mybcert.com in January 2020.
+Platform Live is planned at https://www.mybcert.com in 2Q2020.
 
 
 IMPORTANT NOTES
